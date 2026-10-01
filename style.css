@@ -1,0 +1,26 @@
+/* Đẩy body xuống để không bị Navbar đè */
+body {
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+  color: #5a5a5a;
+}
+
+/* Set chiều cao cho carousel */
+.carousel-item {
+  height: 32rem;
+  background-color: #000;
+  background-size: cover;
+  background-position: center;
+}
+
+.bg-img1 {
+  background-image: url("img/img1.jpg");
+}
+
+.bg-img2 {
+  background-image: url("img/img2.jpg");
+}
+
+.bg-img3 {
+  background-image: url("img/img3.jpg");
+}
